@@ -8,7 +8,7 @@
 ## Web Development
   - HTML
   - CSS
-  - JavaScript
+  - [JavaScript](https://github.com/hellomhc/markdowntest/blob/master/JavaScript.md)
   - TypeScript
   - Node.js
   - Java
