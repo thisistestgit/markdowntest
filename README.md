@@ -24,3 +24,4 @@ for THINGS I'VE LEARNED not to forget about. :octocat:
   
 ## Design Pattern
   - MVC
+ㅌ
